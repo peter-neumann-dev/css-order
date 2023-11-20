@@ -17,4 +17,4 @@ Can be used within IDEs (e.g. [Jetbrains](https://www.jetbrains.com/help/idea/se
 
 ## 💎 Credits
 
-Inspired by [hudochenkov order](https://github.com/hudochenkov/stylelint-config-hudochenkov).
+Inspired by [Concentric CSS](https://rhodesmill.org/brandon/2011/concentric-css/) from Brandon Rhodes.
